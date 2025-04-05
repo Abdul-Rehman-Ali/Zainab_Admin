@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "357375347016",
+    "firebase_url": "https://myhoompro-b2fd9-default-rtdb.firebaseio.com",
+    "project_id": "myhoompro-b2fd9",
+    "storage_bucket": "myhoompro-b2fd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357375347016:android:5c735984aec0b9e2cb4b7d",
+        "android_client_info": {
+          "package_name": "com.example.myhoompro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVUBN38X5_2ev8pwBeipO-u_oV45E1Ms4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357375347016:android:7210b91dd7f487e5cb4b7d",
+        "android_client_info": {
+          "package_name": "com.mac.fypproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVUBN38X5_2ev8pwBeipO-u_oV45E1Ms4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357375347016:android:c3295214b98f422fcb4b7d",
+        "android_client_info": {
+          "package_name": "com.zainab_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVUBN38X5_2ev8pwBeipO-u_oV45E1Ms4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
