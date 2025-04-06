@@ -41,5 +41,11 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, AddServiceActivity::class.java)
             startActivity(intent)
         }
+
+        binding.cardView4.setOnClickListener {
+            // Create an Intent to start the AllUsersActivity
+            val intent = Intent(this, ShowServicesActivity::class.java)
+            startActivity(intent)
     }
+}
 }

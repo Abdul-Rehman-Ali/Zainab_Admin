@@ -13,6 +13,12 @@
         android:theme="@style/Theme.Zainab_Admin"
         tools:targetApi="31">
         <activity
+            android:name=".ShowAllProductsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ShowServicesActivity"
+            android:exported="false" />
+        <activity
             android:name=".AddServiceActivity"
             android:exported="false" />
         <activity
